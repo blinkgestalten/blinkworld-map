@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.heise.de"
+                 "value":"https:\/\/www.elektroklon.de"
                 }],
          "type":"tilelayer",
          "visible":true,
